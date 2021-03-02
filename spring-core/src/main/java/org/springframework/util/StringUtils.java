@@ -246,6 +246,8 @@ public abstract class StringUtils {
 		return sb.toString();
 	}
 
+
+
 	/**
 	 * Trim leading whitespace from the given {@code String}.
 	 * @param str the {@code String} to check
